@@ -1,0 +1,9 @@
+- Discuss "broken window" with your team
+
+- Determine whether you're making stone soup (good) or frog soup (harm) when you try to catalyze change
+
+- Consider the effect of modularization on the delivery of software. 
+  Will it take more / less time to get a monolithic block of software to the required quality compared with a system designed in modules?
+  
+- Think of code evolution along the same lines as a box full of Schrodinger's cats: every decision results in a different version of the future. 
+  How many possible futures can your code support? Which ones are more likely? How hard will it be to support them when the time comes? Dare you open the box?
